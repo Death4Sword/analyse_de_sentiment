@@ -7,4 +7,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 8080
 
-CMD [ "python3", "sentiment.py"]
+CMD ["python3", "sentiment.py"]
